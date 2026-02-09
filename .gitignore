@@ -38,6 +38,9 @@ db.sqlite3-journal
 # IDE
 .vscode/
 .idea/
+CHECKLIST_PROJET_TDM_SQL_ORCHESTRATOR.md
+nouvelle-fonc-sql-runner.html
+Spec_Fonctionnelle_Technique_TDM_SQL.md.pdf
 *.swp
 *.swo
 *~
